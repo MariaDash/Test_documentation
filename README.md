@@ -1,6 +1,6 @@
 # Test_documentation
-## [Bug Report](https://github.com/MariaDash/Test_documentation/blob/main/Bug%20Report.xlsx)
-## [Test-case](https://github.com/MariaDash/Test_documentation/blob/main/Test-case.xlsx)
-## [Smoke Check-list]()
-## [Regression Check-list]()
-## [End-to-end Check-list]()
+## <a href="https://docs.google.com/spreadsheets/d/1KdNTA0hFw6A5MpJC4s6eHADl7M2IUhNn/edit?usp=drive_link&ouid=103971371528254064968&rtpof=true&sd=true">Bug Report</a>
+## <a href="https://docs.google.com/spreadsheets/d/1WjB6RFr5Pk_GUD2tnbYydGwPaWzpmXaM/edit?usp=drive_link&ouid=103971371528254064968&rtpof=true&sd=true">Test-case</a>
+## <a href="https://docs.google.com/spreadsheets/d/1BVT8OtNYTwFA50-1MKVJTuhFsKiYJ_x5/edit?usp=drive_link&ouid=103971371528254064968&rtpof=true&sd=true">Smoke Check-list</a>
+## <a href=" ">Regression Check-list</a>
+## <a href=" ">End-to-end Check-list</a>
