@@ -86,10 +86,10 @@ End-to-End Testing vs System Testing
 
 |End-to-End testing|System testing|
 |:--|:--|
-|Checks the software system as well as related subsystems.|Verifies only the software system against requirements specifications.|
-|Checks the entire end-to-end flow of processes.|Checks the functionality and functions of the system.|
-|All interfaces and server systems are considered for testing.|Functional and non-functional testing are considered|
-|Runs after system testing is complete.|Executed after integration testing.|
-|End-to-end testing involves testing external interfaces, which is difficult to automate. Hence, manual testing is preferable.|To test the system, you can perform both manual and automated testing.|
+|Checks the software system as well as related subsystems|Verifies only the software system against requirements specifications|
+|Checks the entire end-to-end flow of processes|Checks the functionality and functions of the system|
+|All interfaces and server systems are considered for testing|Functional and non-functional testing are considered|
+|Runs after system testing is complete|Executed after integration testing|
+|End-to-end testing involves testing external interfaces, which is difficult to automate. Hence, manual testing is preferable|To test the system, you can perform both manual and automated testing|
 
 End-to-end testing is the process of testing a software system along with its subsystems. The biggest difficulty with this type of testing is that it is necessary to have enough information about the entire system, as well as about interconnected subsystems.
