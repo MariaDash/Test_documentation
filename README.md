@@ -1,8 +1,8 @@
 # Test_documentation
 ## [Testing Web Forms](https://github.com/MariaDash/Testing-web-forms/tree/main)
 ## Web documentation:
-## 1. <a href="https://docs.google.com/spreadsheets/d/1xVo-V7IS4pBtwQkDM1oXWfUAnqjA2wouOo-2pCHDif0/edit?usp=drive_link">Bug Reports</a>
-## 2. <a href="https://docs.google.com/spreadsheets/d/1i-XT_SBZujUgM5tyZ_HL-ElV8_Fxj3E10RV9rNS1JP4/edit?usp=drive_link">Test-cases</a>
+## 1. <a href="https://docs.google.com/spreadsheets/d/1i-XT_SBZujUgM5tyZ_HL-ElV8_Fxj3E10RV9rNS1JP4/edit?usp=drive_link">Test-cases</a>
+## 2. <a href="https://docs.google.com/spreadsheets/d/1xVo-V7IS4pBtwQkDM1oXWfUAnqjA2wouOo-2pCHDif0/edit?usp=drive_link">Bug Reports</a>
 ## Mobile Documentation:
 ## 1. <a href="https://docs.google.com/spreadsheets/d/1KdNTA0hFw6A5MpJC4s6eHADl7M2IUhNn/edit?usp=sharing&ouid=103971371528254064968&rtpof=true&sd=true">Bug Report</a>
 ## 2. <a href="https://docs.google.com/spreadsheets/d/1WjB6RFr5Pk_GUD2tnbYydGwPaWzpmXaM/edit?usp=drive_link&ouid=103971371528254064968&rtpof=true&sd=true">Test-case</a>
